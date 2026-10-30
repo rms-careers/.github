@@ -1,0 +1,30 @@
+name: Template problem
+description: Something in a template or the handbook is wrong, broken or unclear.
+labels: ["template-problem"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Which file or week?
+      placeholder: e.g. week-05/README.md, or "Week 5"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem?
+      options:
+        - Broken link or missing file
+        - Instructions are wrong or unclear
+        - Starter code does not run
+        - Typo or wording
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What happened, and what did you expect?
+      description: Include the command you ran and the error if there was one. Do not paste your assignment solution.
+    validations:
+      required: true

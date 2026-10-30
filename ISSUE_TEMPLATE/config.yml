@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Program handbook
+    url: https://github.com/rms-careers/program-handbook
+    about: Setup steps, repo rules and how to submit. Check here first.
+  - name: Questions about your own project
+    url: https://student.rms-careers.com
+    about: Ask your tutor through your batch. Issues here are for problems in the templates.
