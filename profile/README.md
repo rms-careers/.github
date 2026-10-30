@@ -10,6 +10,7 @@ student builds in their **own** GitHub account, so each project stays part of th
 
 | If you are... | Go to |
 |---|---|
+| **New to GitHub** | [Start here: GitHub from zero](https://github.com/rms-careers/program-handbook/blob/main/start-here/README.md): a step-by-step guide from creating an account to submitting your first project |
 | A student starting the program | [program-handbook](https://github.com/rms-careers/program-handbook): setup, repo rules and how to submit |
 | A student starting Week 1 | [template-weekly-labs](https://github.com/rms-careers/template-weekly-labs): click **Use this template** |
 
